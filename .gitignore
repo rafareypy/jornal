@@ -12,6 +12,11 @@ _rakuten/E-*
 /.buildpath
 /.project
 .buildpath
+.wp-config.php
+wp-config.php
+/.wp-config.php
+/wp-content/uploads
+
 
 !var/.gitkeep
 
